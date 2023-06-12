@@ -5,7 +5,7 @@ Notebooks e scripts utilizados ao longo do projeto de iniciação científica. A
 De maneira resumida e simplificada, objetivo do presente trabalho foi realizar a modelagem do espaço de rótulos usando redes e analisar a correlação entre eles por meio de medidas de centralidade, estrutura de comunidades e os resultados estatísticas obtidos a partir das redes modeladas. Além disto, como iniciação científica, o projeto visa a introdução do discente ao meio da pesquisa científica.
 
 ## Objetivos
-- Extração e manipulação dos dados presentes no repositório: ''\textit{Tips, guidelines and tools for managing multi-label datasets: The mldr.datasets R package and the Cometa data repository}'' \cite{Charte_2018}.
+- Extração e manipulação dos dados presentes no repositório: ''\textit{Tips, guidelines and tools for managing multi-label datasets: The mldr.datasets R package and the Cometa data repository}'' (Charte_2018).
 - Construção da matriz de similaridade e análise das métricas de similaridade e dissimilaridade evocando índices como Jaccard e Rogers e Tanimoto;
 - Detendo os dados do item anterior, construiremos os grafos mediante à diversos algoritmos já consolidados nas bibliotecas disponíveis na ferramenta Python; 
 - Esparsificação da rede de rótulos gerada, uma vez que ganha-se em tempo de processamento e clareza na análise quando retiramos arestas de menor relevância.
@@ -15,7 +15,7 @@ De maneira resumida e simplificada, objetivo do presente trabalho foi realizar a
 - Por fim, um dos principais objetivos do presente trabalho é complementar a formação e fomentar a introdução do discente no meio da pesquisa científica, promovendo desde já o contato com o método científico.
 
 ## Conjunto de dados
-Inicialmente o presente trabalho tomou como fontes principais os dados presentes em  \textit{The Extreme Classification Repository: Multi-label Datasets $\&$ Code}'' \cite{Bhatia16} e ''\textit{Tips, guidelines and tools for managing multi-label datasets: The mldr.datasets R package and the Cometa data repository}'' \cite{Charte_2018}, que contempla base de dados de diferentes domínios de aplicação onde cada instância está associada a mais de um rótulo. Porém, até o momento, fizemos uso dos dados conttidos apenas na segunda base. 
+Inicialmente o presente trabalho tomou como fontes principais os dados presentes em  "The Extreme Classification Repository: Multi-label Datasets & Code" (Bhatia16) e "Tips, guidelines and tools for managing multi-label datasets: The mldr.datasets R package and the Cometa data repository" (Charte_2018), que contempla base de dados de diferentes domínios de aplicação onde cada instância está associada a mais de um rótulo. Porém, até o momento, fizemos uso dos dados conttidos apenas na segunda base. 
 
 ### Tratamento de dados
 
