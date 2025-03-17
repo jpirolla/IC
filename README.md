@@ -1,4 +1,4 @@
-# IC
+# Uso de redes complexas para explorar a correlação entre rótulos no contexto de aprendizado supervisionado
 Notebooks e scripts utilizados ao longo do projeto de iniciação científica. A seguir estão explicitados alguns tópicos do prójeto de modo a familiarizar-se com os procedimentos que foram realizados. 
 
 ## Resumo 
